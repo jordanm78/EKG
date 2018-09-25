@@ -1,0 +1,12 @@
+#ignore gerber files and drill files
+*.drl
+*.GBL
+*.GBO
+*.GBS
+*.GKO
+*.GTL
+*.GTO
+*.GTS
+
+#Ignore zip files
+*.zip
